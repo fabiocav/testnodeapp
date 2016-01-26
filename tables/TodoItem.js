@@ -34,7 +34,7 @@ var table = azureMobileApps.table();
 // the default version
 //table.delete(function (context) {
 //  return context.execute();
-//});
+////});
 
 table.delete()
 // Finally, export the table to the Azure Mobile Apps SDK - it can be
